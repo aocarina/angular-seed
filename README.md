@@ -9,6 +9,9 @@ framework and a bunch of development and testing tools for instant web developme
 
 The seed app doesn't do much, just shows how to wire two controllers and views together.
 
+## About this fork
+
+This fork was created to add some JSCS rules we use at [Ocarina](http://www.aocarina.com/).
 
 ## Getting Started
 
